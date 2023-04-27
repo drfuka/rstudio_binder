@@ -1,1 +1,1 @@
-libgdal
+libgdal-dev
